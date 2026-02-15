@@ -1,0 +1,13 @@
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+fvcore
+matplotlib
+numpy==1.26.4
+opencv_python==4.9.0.80
+Pillow
+scipy
+tqdm
+einops
+pytorch_wavelets
+PyWavelets
