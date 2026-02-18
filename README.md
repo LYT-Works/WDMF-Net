@@ -40,6 +40,6 @@ Testing:
 \
 Pretrained weights are provided and can be used directly for evaluation.
 ## Main Results
-The proposed method (WDMF-Net) achieves state-of-the-art performance on five public remote sensing change detection benchmarks, demonstrating strong robustness and generalization capability. Training logs and pretrained weights of the compared methods are available at: [Baidu Disk](https://pan.baidu.com/s/17tHry4XBErbrk-XURdWRNA?pwd=w6c6) (Password: w6c6)
+Training logs and pretrained weights of the compared methods are available at: [Baidu Disk](https://pan.baidu.com/s/17tHry4XBErbrk-XURdWRNA?pwd=w6c6) (Password: w6c6)
 
 
