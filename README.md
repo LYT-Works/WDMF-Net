@@ -2,7 +2,7 @@
 ### 1. Dataset Download & Pre-processing
 We evaluate the proposed method on five widely used change detection benchmarks:
 - LEVIR-CD: https://justchenhao.github.io/LEVIR
-- WHU-CD: official version at http://gpcv.whu.edu.cn/data/building_dataset.html
+- WHU-CD: http://gpcv.whu.edu.cn/data/building_dataset.html
 - SYSU-CD: https://github.com/liumency/SYSU-CD
 - LEVIR-CD+: https://github.com/S2Looking/Dataset
 - CLCD-CD: https://github.com/liumency/CropLand-CD
