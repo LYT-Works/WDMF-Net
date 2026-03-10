@@ -8,6 +8,7 @@ We evaluate the proposed method on five widely used change detection benchmarks:
 - CLCD-CD: https://github.com/liumency/CropLand-CD
 
 The five preprocessed datasets are available at [Baidu Disk](https://pan.baidu.com/s/1XtL511v12h27PtN7O3D_pQ?pwd=0000) (Password: 0000) 
+
 Please ensure that each image in the dataset is cropped to patches of 256×256 pixels.
 ### 2. Dataset Organization
 Prepare the dataset into the following structure and set its path in the [config](https://github.com/LYT-Works/WDMF-Net/blob/main/train.py#L181-L190) file.
