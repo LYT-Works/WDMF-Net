@@ -6,6 +6,7 @@ We evaluate the proposed method on five widely used change detection benchmarks:
 - SYSU-CD: https://github.com/liumency/SYSU-CD
 - LEVIR-CD+: https://github.com/S2Looking/Dataset
 - CLCD-CD: https://github.com/liumency/CropLand-CD
+
 The five preprocessed datasets are available at [Baidu Disk]([https://drive.google.com/file/d/1c93Y0ioe16rxEkVIJJyUpJdKkMmPOTxR/view](https://pan.baidu.com/s/1XtL511v12h27PtN7O3D_pQ?pwd=0000) (Password: 0000) 
 Please ensure that each image in the dataset is cropped to patches of 256×256 pixels.
 ### 2. Dataset Organization
