@@ -1,3 +1,4 @@
+# <p align=center> A Lightweight Wavelet-Aligned Difference and Mask-Guided Fusion Network for Change Detection <p>
 ## Getting Started
 ### 1. Dataset Download & Pre-processing
 We evaluate the proposed method on five widely used change detection benchmarks:
